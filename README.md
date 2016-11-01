@@ -28,7 +28,7 @@ hello everyone 我是果冻虾仁<br>
 * 昵称：煎饼果子
   * 爽口
     * 味美
-    
+
 - 麻辣烫
 - 烧饼  
 - 好饿啊
@@ -43,7 +43,12 @@ hello everyone 我是果冻虾仁<br>
  单行文本    单行文本 Hello World!  
 单行文本
 #插入图片
-方式：!\[名称](图片网址)
+方式：!\[名称](图片网址)  
+用三个星号或下划线或短横线表示水平分割线
+***
+---
+___
+
 ![车子](https://github.com/wk-kevin/learngit/blob/master/picture/car6.jpg)
 #强调
 ##斜体
