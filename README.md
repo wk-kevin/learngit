@@ -39,4 +39,4 @@ hello everyone 我是果冻虾仁<br>
 单行文本  
 单行文本
 #插入图片
-![车子](https://github.com/wk-kevin/learngit/edit/master/picture/car6.jpg)
+![车子](https://github.com/wk-kevin/learngit/blob/master/picture/car6.jpg)
