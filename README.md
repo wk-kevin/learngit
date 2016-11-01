@@ -7,7 +7,7 @@
 #一级标题
 用#表示一级标题
 ##二级标题
-用##表示二级标题，以此类推，公有六级
+用##表示二级标题，以此类推，共有六级
 换行
 =
 哗啦啦<br>
@@ -39,4 +39,5 @@ hello everyone 我是果冻虾仁<br>
 单行文本  
 单行文本
 #插入图片
+方式：\![名称](图片网址)
 ![车子](https://github.com/wk-kevin/learngit/blob/master/picture/car6.jpg)
